@@ -1,0 +1,19 @@
+/* SITE COLORS;-
+CAMBRIDGE BLUE - #BCD8C1
+PALE SPRING BUD - #D6DBB2
+FLAX - #E3D985
+MANDARIN - #E57A44
+DARK PURPLE - #422040
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', 'Baloo Da 2';
+}
+
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    line-height: 1.6rem;
+}
