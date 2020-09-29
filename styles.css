@@ -20,19 +20,19 @@ html {
   line-height: 1.6rem;
 }
 
-main{
-    margin: 0 auto;
-    width: 90%;
-    height: auto;
+main {
+  margin: 0 auto;
+  width: 90%;
+  height: auto;
 }
 
 header {
   width: 100%;
-  height: fit-content;
-  /* position: relative; */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),no-repeat,
-    url("img/img1.jpg");
-    background-size: cover;
+  height: auto;
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    no-repeat, url("img/img1.jpg");
+  background-size: cover;
 }
 
 nav {
