@@ -17,3 +17,15 @@ html {
     scroll-behavior: smooth;
     line-height: 1.6rem;
 }
+
+nav{
+    background-color: #113f7a;
+    position: relative;
+}
+
+img#logo{
+   width: 100px;
+   height: 50px;
+   position: absolute;
+   top: 100px;
+}
