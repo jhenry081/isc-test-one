@@ -75,6 +75,7 @@ button {
 
 section#body{
   background-color: #F4F4F4;
+  padding: 15px;
 }
 
 section#body h2 {
@@ -94,6 +95,14 @@ div#about p{
 
 div#process{
   padding: 25px;
+  margin: auto;
+  max-width: 900px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-image: url(img/img2.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: 300px 200px;
 }
 
 div#process ul li{
