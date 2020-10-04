@@ -59,6 +59,7 @@ div#heading h1 {
 
 div#heading p {
   max-width: 700px;
+  margin: auto;
 }
 
 button {
@@ -70,4 +71,23 @@ button {
   text-decoration: none;
   cursor: pointer;
   border-radius: 16px;
+}
+
+section#body{
+  background-color: #F4F4F4;
+}
+
+div#about {
+  text-align: center;
+  padding: 15px;
+}
+
+div#about h2 {
+  color: #356d97;
+}
+
+div#about p{
+  max-width: 800px;
+  margin: auto;
+  margin-top: 5px;
 }
