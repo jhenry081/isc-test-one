@@ -77,17 +77,29 @@ section#body{
   background-color: #F4F4F4;
 }
 
+section#body h2 {
+  color: #356d97;
+}
+
 div#about {
   text-align: center;
   padding: 15px;
-}
-
-div#about h2 {
-  color: #356d97;
 }
 
 div#about p{
   max-width: 800px;
   margin: auto;
   margin-top: 5px;
+}
+
+div#process{
+  padding: 25px;
+}
+
+div#process ul li{
+  list-style-type: circle;
+}
+
+div#process h2{
+  margin-left: -19px;
 }
